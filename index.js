@@ -1,1 +1,0 @@
-console.log('A weboldalt készítette: Programming#8203 | Igazi név: Székely Bertalan Tamás 13 éves!');
